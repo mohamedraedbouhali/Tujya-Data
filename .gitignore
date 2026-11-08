@@ -1,0 +1,8 @@
+# Ignore local data, databases, and raw downloads
+data/raw/
+data/tdc/
+data/tox21/
+data/tujya/
+*.db
+*.pkl
+*.csv.gz
